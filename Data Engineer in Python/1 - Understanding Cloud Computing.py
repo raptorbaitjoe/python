@@ -58,7 +58,51 @@
 # Some industries have strict regulations now met by many cloud providers
 
 
+### Cloud Service Models
 
+## Infrastructure as a Service (IaaS)
+## Platform as a Service (PaaS)
+## Software as a Service (SaaS)
 
+## Companies rent cloud space
+# No maintenance
+# Pay for what you use
 
+## Infrastructure as a Services
+# Like renting a car
+# You're in charge of driving, refueling and navigation
+# Scalable, CLoud-Based Infrastructure, used by System Admin
+# Examples: Amazon EC2 or Google Cloud Compute Environment
+# Networking
+# Storage
+# Servers
+# Virtualisation
+
+## Platform as a Service
+# Like renting an Uber, you choose destination but driver handles the actual driving
+# Full development environment, used by developers
+# Examples: Google App ENgine or AWS Elastic Beanstalk
+# Same a ride sharing
+# Everything in IaaS
+# Operating Systems
+# Middleware
+
+## Software as a Service
+# Like taking the bus
+# Software available online with no installation needed, used by everyone
+# Exmaples: Google Workspace or Dropbox
+# Log in and use the software
+
+# Control traded for convinience
+
+## Functions as a Service (FaaS)
+# Serverless computing
+# Focusses on a function (part of the software)
+# Pay for what you use
+# e.g. identity authentication, payment transactions
+
+## Anything as a Service (XaaS)
+# Covers everything from databases to disaster recovery
+# Cloud covers everything
+# Examples: Google CLoud or Azure
 
